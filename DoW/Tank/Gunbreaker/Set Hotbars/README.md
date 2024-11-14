@@ -15,6 +15,7 @@ A set of three macros for quickly setting the basic hotbars
 /hotbar action "Gnashing Fang" 1 10
 /hotbar action "Aurora" 1 11
 /hotbar action "Trajectory" 1 12
+/hotbar display 1 On
 ```
 
 ## Hotbar 2
@@ -27,6 +28,7 @@ A set of three macros for quickly setting the basic hotbars
 /hotbar action "Reign of Beasts" 2 10
 /hotbar action "Gnashing Fang" 2 11
 /hotbar action "Continuation" 2 12
+/hotbar display 2 On
 ```
 
 ## Hotbar 3
@@ -45,4 +47,5 @@ A set of three macros for quickly setting the basic hotbars
 /hotbar action "Heart of Corundum" 3 10
 /hotbar action "Heart of Light" 3 11
 /hotbar action "Royal Guard" 3 12
+/hotbar display 3 On
 ```

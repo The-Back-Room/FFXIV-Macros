@@ -14,6 +14,7 @@ A set of three macros for quickly setting the basic hotbars
 /hotbar action Rescue 1 10
 /hotbar action Egeiro 1 11
 /hotbar action Swiftcast 1 12
+/hotbar display 1 On
 ```
 
 ## Hotbar 2
@@ -31,6 +32,7 @@ A set of three macros for quickly setting the basic hotbars
 /hotbar action Kerachole 2 10
 /hotbar action Haima 2 11
 /hotbar action Panhaima 2 12
+/hotbar display 2 On
 ```
 
 ## Hotbar 3
@@ -43,4 +45,5 @@ A set of three macros for quickly setting the basic hotbars
 /hotbar action Zoe 3 5
 /hotbar action "Lucid Dreaming" 3 11
 /hotbar action Icarus 3 12
+/hotbar display 3 On
 ```
