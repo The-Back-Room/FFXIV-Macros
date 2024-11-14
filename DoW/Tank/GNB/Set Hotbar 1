@@ -1,0 +1,12 @@
+/micon "Soul of the Gunbreaker" item
+/hotbar action "Keen Edge" 1 1
+/hotbar action "Brutal Shell" 1 2
+/hotbar action "Solid Barrel" 1 3
+/hotbar action "Blasting Zone" 1 4
+/hotbar action "Sonic Break" 1 5
+/hotbar action "Burst Strike" 1 7
+/hotbar action "Double Down" 1 8
+/hotbar action "Continuation" 1 9
+/hotbar action "Gnashing Fang" 1 10
+/hotbar action "Aurora" 1 11
+/hotbar action "Trajectory" 1 12
