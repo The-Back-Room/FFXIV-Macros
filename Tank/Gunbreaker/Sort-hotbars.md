@@ -1,3 +1,12 @@
+---
+layout: default
+title: Sort Hotbars
+description: A set of three macros for quickly setting the basic hotbars
+parent: Gunbreaker
+grand_parent: FFXIV-Macros
+permalink: permalink: /FFXIV-Macros/DoM/Healer/Gunbreaker/Sort-Hotbars
+---
+
 # Set Hotbars
 A set of three macros for quickly setting the basic hotbars
 
