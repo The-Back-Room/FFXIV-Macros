@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Final Fantasy XIV Macros
-nav_order: 2
 permalink: /FFXIV-Macros
 has_children: true
 ---

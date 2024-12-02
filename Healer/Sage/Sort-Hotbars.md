@@ -3,8 +3,8 @@ layout: default
 title: Sort Hotbars
 description: A set of three macros for quickly setting the basic hotbars
 parent: Sage
-grand_parent: FFXIV-Macros
-permalink: permalink: /FFXIV-Macros/Healer/Sage/Sort-Hotbars
+grand_parent: Healer
+permalink: permalink: /Healer/Sage/Sort-Hotbars
 ---
 
 # Set Hotbars

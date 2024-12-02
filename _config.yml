@@ -59,8 +59,11 @@ search:
 
 pages:
 - 404.md
-- FFXIV-Macros.md
+- README.md
+- Healer.md
+- Tank.md
+- DPS.md
 - Healer/Sage.md
-- Healer/Sage/Sort-Hotbars.md
 - Tank/Gunbreaker.md
+- Healer/Sage/Sort-Hotbars.md
 - Tank/Gunbreaker/Sort-Hotbars.md

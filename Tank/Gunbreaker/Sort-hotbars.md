@@ -3,8 +3,8 @@ layout: default
 title: Sort Hotbars
 description: A set of three macros for quickly setting the basic hotbars
 parent: Gunbreaker
-grand_parent: FFXIV-Macros
-permalink: permalink: /FFXIV-Macros/Tank/Gunbreaker/Sort-Hotbars
+grand_parent: Tank
+permalink: permalink: /Tank/Gunbreaker/Sort-Hotbars
 ---
 
 # Set Hotbars
