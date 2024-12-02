@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Final Fantasy XIV Macros
-permalink: /FFXIV-Macros
+permalink: /
 has_children: true
 ---
 
