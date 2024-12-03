@@ -1,7 +1,7 @@
 ---
 title: DPS
 description: Healer Macros
-nav_order: 1
+nav_order: 2
 permalink: /DPS
 has_toc: false
 ---
