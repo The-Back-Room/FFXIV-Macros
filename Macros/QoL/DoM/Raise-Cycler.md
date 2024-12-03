@@ -6,6 +6,7 @@ grand_parent: Quality of Life
 permalink: /Macros/QoL/DoM/Raise-Cycler
 ---
 
+Swiftly revive the nearest downed party member
 
 ```
 /mlock

@@ -6,6 +6,8 @@ grand_parent: Quality of Life
 permalink: /Macros/QoL/DoM/Heal-Cycler
 ---
 
+Swiftly heal the nearest injured party member
+
 
 ```
 /mlock
