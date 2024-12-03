@@ -61,5 +61,9 @@ pages:
 - 404.md
 - index.md
 - Macros/QoL.md
-- Macros/DoM/QoL/Raise-Cycler.md
-- Macros/DoM/QoL/Heal-Cycler.md
+- Macros/QoL/DoM.md
+- Macros/QoL/DoW.md
+- Macros/QoL/DoH.md
+- Macros/QoL/DoL.md
+- Macros/QoL/DoM/Raise-Cycler.md
+- Macros/QoL/DoM/Heal-Cycler.md

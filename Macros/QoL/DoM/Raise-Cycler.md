@@ -1,8 +1,9 @@
 ---
 title: Raise Cycler
 description: Raise the nearest downed party member in your party
-parent: QoL
-permalink: /Macros/DoM/QoL/Raise-Cycler
+parent: Disciple of Magic
+grand_parent: Quality of Life
+permalink: /Macros/QoL/DoM/Raise-Cycler
 ---
 
 

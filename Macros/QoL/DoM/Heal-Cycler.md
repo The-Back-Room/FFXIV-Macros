@@ -1,8 +1,9 @@
 ---
 title: Heal Cycler
 description: Raise the nearest downed party member in your party
-parent: QoL
-permalink: /Macros/DoM/QoL/Heal-Cycler
+parent: Disciple of Magic
+grand_parent: Quality of Life
+permalink: /Macros/QoL/DoM/Heal-Cycler
 ---
 
 
