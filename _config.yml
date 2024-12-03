@@ -71,3 +71,9 @@ pages:
 - Macros/QoL/DoW/Provoke.md
 - macros/QoL/UI/Utility-Hotbar-Cycler.md
 - Macros/QoL/UI/Ability-Hotbar-Cycler.md
+
+nav_external_links:
+  - title: Docs
+    url: https://the-back-room.github.io/Docs/
+    hide_json: false
+    open_in_new_tab: false
