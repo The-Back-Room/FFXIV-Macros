@@ -8,7 +8,7 @@ permalink: /Macros/QoL/DoM/Utility-Hotbar-Cycler
 
 This macro setup is for setting up shared hotbars that you can cycle between. It comes in useful for cleanign up a cluttered UI. It can be used for almost anything the user desires it for.
 
-Simply add these macros to shared hotbar 6 and then set items you would like to cycle between to shared hotbars 7, 8, 9, and 10 and then use these macros to cycle between them as needed.
+Simply add these macros to shared hotbar 6 and then set items you would like to cycle between to shared hotbars 7, 8, 9, and 10.
 
 Display Hotbar 7
 ```
