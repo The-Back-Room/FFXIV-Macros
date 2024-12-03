@@ -2,7 +2,7 @@
 title: Raise Cycler
 description: Raise the nearest downed party member in your party
 parent: QoL
-permalink: /QoL/Raise-Cycler
+permalink: /Macros/DoM/QoL/Raise-Cycler
 ---
 
 
