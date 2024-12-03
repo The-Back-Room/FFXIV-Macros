@@ -60,8 +60,6 @@ search:
 pages:
 - 404.md
 - index.md
-- Healer.md
-- Tank.md
-- DPS.md
-- Healer/Utility.md
-- Healer/Utility/Raise-Cycler.md
+- Macros/QoL.md
+- Macros/DoM/QoL/Raise-Cycler.md
+- Macros/DoM/QoL/Heal-Cycler.md
