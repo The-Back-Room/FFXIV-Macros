@@ -2,7 +2,6 @@
 title: Raise Cycler
 description: Raise the nearest downed party member in your party
 parent: Utility
-grand_parent: Healer
 permalink: /Healer/Utility/Raise-Cycler
 ---
 
