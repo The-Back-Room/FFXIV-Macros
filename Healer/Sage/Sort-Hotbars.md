@@ -7,9 +7,6 @@ grand_parent: Healer
 permalink: permalink: /Healer/Sage/Sort-Hotbars
 ---
 
-# Set Hotbars
-A set of three macros for quickly setting the basic hotbars
-
 ## Hotbar 1
 ```
 /micon "Soul of the Sage" item
