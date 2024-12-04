@@ -73,7 +73,7 @@ pages:
 - Macros/QoL/UI/Ability-Hotbar-Cycler.md
 
 nav_external_links:
-  - title: Docs
-    url: https://the-back-room.github.io/Docs/
+  - title: The Back Room
+    url: https://the-back-room.github.io/
     hide_json: false
     open_in_new_tab: false
