@@ -5,10 +5,8 @@ nav_order: 1
 permalink: /
 ---
 
-# FFXIV Macros
-A collection of QoL and other macros for use with [Final Fantasy XIV][FFXIV]
+<h2 align="center">FFXIV Macros</h2>
 
-Macros will be added over time. Feel free to check back occasionally for updates.
-
-
-[FFXIV]: https://www.finalfantasyxiv.com
+<p align="center">A collection of QoL and other macros for use with <a href="https://www.finalfantasyxiv.com/" target="_blank">Final Fantasy XIV</a>.</p>
+<br />
+<p align="center">Macros will be added over time. Feel free to check back occasionally for updates.</p>
