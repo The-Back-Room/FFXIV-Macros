@@ -1,0 +1,50 @@
+title: FFXIV Macros
+description: A collection of QoL and other Macros for use in FFXIV
+
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+mermaid:
+  version: "9.1.3"
+
+heading_anchors: true
+nav_enabled: true
+search_enabled: true
+
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+  focus_shortcut_key: 'k'
+
+pages:
+- 404.md
+- index.md
+- Macros/QoL.md
+- Macros/QoL/DoM.md
+- Macros/QoL/DoW.md
+- Macros/QoL/DoH.md
+- Macros/QoL/DoL.md
+- Macros?QoL/UI.md
+- Macros/QoL/DoM/Raise-Cycler.md
+- Macros/QoL/DoM/Heal-Cycler.md
+- Macros/QoL/DoW/Provoke.md
+- macros/QoL/UI/Utility-Hotbar-Cycler.md
+- Macros/QoL/UI/Ability-Hotbar-Cycler.md
+
+nav_external_links:
+  - title: The Back Room
+    url: https://the-back-room.github.io/
+    hide_json: false
+    open_in_new_tab: false
