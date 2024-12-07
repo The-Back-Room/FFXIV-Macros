@@ -14,38 +14,38 @@ Display Hotbar 7
 ```
 /mlock
 /merror off
-/hb display share 7 on
-/hb display share 8 off
-/hb display share 9 off
-/hb display share 10 off
+/hotbar display share 7 on
+/hotbar display share 8 off
+/hotbar display share 9 off
+/hotbar display share 10 off
 ```
 
 Display Hotbar 8
 ```
 /mlock
 /merror off
-/hb display share 7 onff
-/hb display share 8 on
-/hb display share 9 off
-/hb display share 10 off
+/hotbar display share 7 onff
+/hotbar display share 8 on
+/hotbar display share 9 off
+/hotbar display share 10 off
 ```
 
 Display Hotbar 9
 ```
 /mlock
 /merror off
-/hb display share 7 off
-/hb display share 8 off
-/hb display share 9 on
-/hb display share 10 off
+/hotbar display share 7 off
+/hotbar display share 8 off
+/hotbar display share 9 on
+/hotbar display share 10 off
 ```
 
 Display Hotbar  10
 ```
 /mlock
 /merror off
-/hb display share 7 off
-/hb display share 8 off
-/hb display share 9 off
-/hb display share 10 on
+/hotbar display share 7 off
+/hotbar display share 8 off
+/hotbar display share 9 off
+/hotbar display share 10 on
 ```
