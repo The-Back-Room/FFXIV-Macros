@@ -15,6 +15,17 @@ This macro setup is for setting up ability hotbars that you can cycle between. T
 
 This works for each class without needing to specify the class. Simply make sure you are on the class you are setting uo and it should work flawlessly.
 
+### Change Job
+Place this into your Utility Hotbar hotbar. Make sure to change `30` for the number of the gearset you are swapping to, and `GNB` for the class that you are swapping to.
+
+```
+/mlock
+/merror off
+/micon "30" gearset
+/gs change 30
+/hotbar copy GNB 1 share 1
+```
+
 ### Display Hotbar 1
 Place this into slot 1 of hotbar 2 and slot 12 of hotbar 2, then add your primary abilities into the remaining slots. Make sure to replace `GNB` with the class you are using it for.
 
